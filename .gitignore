@@ -1,2 +1,4 @@
 
 userenv/
+.deployment
+.vscode/settings.json
